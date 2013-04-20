@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jonas Heitzer <jonas@k308.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:222 wp-lopa/settings.php:222
+msgid "Delete Settings"
+msgstr "Delete Settings"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:216 wp-lopa/settings.php:216
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:145 wp-lopa/settings.php:145
+msgid "\"Previous\" &amp; \"Next\" links:"
+msgstr "\"Previous\" &amp; \"Next\" links:"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:201 wp-lopa/settings.php:201
+msgid "After Options"
+msgstr "After Options"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:206 wp-lopa/settings.php:206
+msgid "After loop content:"
+msgstr "After loop content:"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "Authors blog"
+msgstr "Authors blog"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:186 wp-lopa/settings.php:186
+msgid "Before Options"
+msgstr "Before Options"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:191 wp-lopa/settings.php:191
+msgid "Before loop content:"
+msgstr "Before loop content:"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "CSS"
+msgstr "CSS"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:160 wp-lopa/settings.php:160
+msgid "Choose below on which pages you want the plugin to display pagination."
+msgstr "Choose below on which pages you want the plugin to display pagination."
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:220 wp-lopa/settings.php:220
+msgid "Delete settings"
+msgstr "Delete settings"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "General"
+msgstr "General"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:136 wp-lopa/settings.php:136
+msgid "Global Options"
+msgstr "Global Options"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "Helpful Links"
+msgstr "Helpful Links"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:195 wp-lopa/inc/settings.php:210
+#: wp-lopa/settings.php:195 wp-lopa/settings.php:210
+msgid "Id attribute:"
+msgstr "Id attribute:"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid ""
+"In the future i will try to provide you with more useful stuff here. Check "
+"out the other tabs until then. Have a good day."
+msgstr ""
+"In the future i will try to provide you with more useful stuff here. Check "
+"out the other tabs until then. Have a good day."
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "Log. Pagination"
+msgstr "Log. Pagination"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:131 wp-lopa/settings.php:131
+msgid "Logarithmic Pagination"
+msgstr "Logarithmic Pagination"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "Logarithmic pagination"
+msgstr "Logarithmic pagination"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:141 wp-lopa/settings.php:141
+msgid "Max. # of pages:"
+msgstr "Max. # of pages:"
+
+#. Text in function
+#: wp-lopa/wp-lopa.php:1
+msgid "Next"
+msgstr "Next"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:168 wp-lopa/settings.php:168
+msgid "On category archives:"
+msgstr "On category archives:"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:172 wp-lopa/settings.php:172
+msgid "On date archives:"
+msgstr "On date archives:"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:180 wp-lopa/settings.php:180
+msgid "On search-results:"
+msgstr "On search-results:"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:176 wp-lopa/settings.php:176
+msgid "On tag archives:"
+msgstr "On tag archives:"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:164 wp-lopa/settings.php:164
+msgid "On the homepage:"
+msgstr "On the homepage:"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "Plugins website blog"
+msgstr "Plugins website blog"
+
+#. Text in echo
+#: wp-lopa/pagination.php:70 wp-lopa/inc/pagination.php:70
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#. Text in function
+#: wp-lopa/wp-lopa.php:1
+msgid "Previous"
+msgstr "Previous"
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid "Settings"
+msgstr "Settings"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:120 wp-lopa/settings.php:120
+msgid "Settings deleted."
+msgstr "Settings deleted."
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:111 wp-lopa/settings.php:111
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:146 wp-lopa/settings.php:146
+msgid "Show \"previous\" &amp; \"next\" links"
+msgstr "Show \"previous\" &amp; \"next\" links"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:192 wp-lopa/inc/settings.php:207
+#: wp-lopa/settings.php:192 wp-lopa/settings.php:207
+msgid "Show pagination"
+msgstr "Show pagination"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:169 wp-lopa/settings.php:169
+msgid "Show pagination on category archives"
+msgstr "Show pagination on category archives"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:173 wp-lopa/settings.php:173
+msgid "Show pagination on date archives"
+msgstr "Show pagination on date archives"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:181 wp-lopa/settings.php:181
+msgid "Show pagination on search-results"
+msgstr "Show pagination on search-results"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:177 wp-lopa/settings.php:177
+msgid "Show pagination on tag archives"
+msgstr "Show pagination on tag archives"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:165 wp-lopa/settings.php:165
+msgid "Show pagination on the homepage"
+msgstr "Show pagination on the homepage"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:153 wp-lopa/settings.php:153
+msgid "Text for \"Next\" Link:"
+msgstr "Text for \"Next\" Link:"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:149 wp-lopa/settings.php:149
+msgid "Text for \"Previous\" Link:"
+msgstr "Text for \"Previous\" Link:"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:202 wp-lopa/settings.php:202
+msgid ""
+"These options only relate to pagination displayed <b>after</b> the content "
+"(loop_end)."
+msgstr ""
+"These options only relate to pagination displayed <b>after</b> the content "
+"(loop_end)."
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:187 wp-lopa/settings.php:187
+msgid ""
+"These options only relate to pagination displayed <b>before</b> the content "
+"(loop_end)."
+msgstr ""
+"These options only relate to pagination displayed <b>before</b> the content "
+"(loop_start)."
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:137 wp-lopa/settings.php:137
+msgid "These options relate to <b>all</b> displayed pagination elements."
+msgstr "These options relate to <b>all</b> displayed pagination elements."
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:221 wp-lopa/settings.php:221
+msgid "This will clear all options."
+msgstr "This will clear all options."
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:132 wp-lopa/settings.php:132
+msgid ""
+"To gain a more balanced link structure for paginated pages this plugins uses "
+"logerithmic logic to calculate which page to link to."
+msgstr ""
+"To gain a more balanced link structure for paginated pages this plugins uses "
+"logerithmic logic to calculate which page to link to."
+
+#. Text in function
+#: wp-lopa/inc/settings.php:225 wp-lopa/settings.php:225
+msgid ""
+"What you want to do is, make your pagination look realy nice. Take this as a "
+"starting point:"
+msgstr ""
+"What you want to do is, make your pagination look realy nice. Take this as a "
+"starting point:"
+
+#. Text in echo
+#: wp-lopa/inc/settings.php:159 wp-lopa/settings.php:159
+msgid "Where to show it"
+msgstr "Where to show it"
