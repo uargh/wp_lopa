@@ -13,9 +13,9 @@ This plugin inserts pagination based on logarithmic calculation for a more evenl
 
 == Description ==
 
-This will give you an advanced pagination to distribute your link-juice more evenly across your paginated paged. It also provides a better choice of navigation to the user tio explore and find your content.
+This will give you an advanced pagination to distribute your link-juice more evenly across your paginated paged. It also provides a better choice of navigation to the user to explore and find your content.
 
-You can turn the pagination on/off seperately for:
+You can turn the pagination on/off separately for:
 
 *	homepage
 *	search results
@@ -38,6 +38,7 @@ For more information visit the [plugin website](http://labs.k308.de/wp/logarithm
 1. Remove original pagination code from template files
 1. Add some CSS to make it all pretty. To make it easier here is some sample-code:
 
+```css
 .paging-navigation ul {
 	list-style: none;
 }
@@ -57,9 +58,10 @@ For more information visit the [plugin website](http://labs.k308.de/wp/logarithm
 
 .paging-navigation .next {
 }
-
+```
 Here is some sample HTML output:
 
+```html
 <nav role="navigation" id="pages_bottom" class="site-navigation paging-navigation">
 	<h1 class="assistive-text">Post navigation</h1>
 	<ul>
@@ -82,7 +84,7 @@ Here is some sample HTML output:
 		<li><a href="?paged=4" rel="next" class="next"><span class="paginate_link">Next</span></a></li>
 	</ul>
 </nav>
-
+```
 
 == Frequently Asked Questions ==
 
