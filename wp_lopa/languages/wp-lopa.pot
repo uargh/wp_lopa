@@ -1,0 +1,237 @@
+# Copyright (C) 2013 Logarithmic Pagination
+# This file is distributed under the same license as the Logarithmic Pagination package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Logarithmic Pagination 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-lopa\n"
+"POT-Creation-Date: 2013-04-21 09:21:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/pagination.php:70
+msgid "Post navigation"
+msgstr ""
+
+#: inc/settings.php:8
+msgid "Settings"
+msgstr ""
+
+#: inc/settings.php:23
+msgid "Logarithmic pagination"
+msgstr ""
+
+#: inc/settings.php:23
+msgid "Log. Pagination"
+msgstr ""
+
+#: inc/settings.php:37
+msgid "General"
+msgstr ""
+
+#: inc/settings.php:38
+msgid ""
+"In the future i will try to provide you with more useful stuff here. Check "
+"out the other tabs until then. Have a good day."
+msgstr ""
+
+#: inc/settings.php:44
+msgid "CSS"
+msgstr ""
+
+#: inc/settings.php:45
+msgid ""
+"What you want to do is, make your pagination look realy nice. Take this as a "
+"starting point:"
+msgstr ""
+
+#: inc/settings.php:73
+msgid "Helpful Links"
+msgstr ""
+
+#: inc/settings.php:73
+msgid "Plugins website blog"
+msgstr ""
+
+#: inc/settings.php:73
+msgid "Authors blog"
+msgstr ""
+
+#: inc/settings.php:80
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/settings.php:111
+msgid "Settings saved."
+msgstr ""
+
+#: inc/settings.php:120
+msgid "Settings deleted."
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Logarithmic Pagination 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/settings.php:131
+msgid "Logarithmic Pagination"
+msgstr ""
+
+#: inc/settings.php:132
+msgid ""
+"To gain a more balanced link structure for paginated pages this plugins uses "
+"logerithmic logic to calculate which page to link to."
+msgstr ""
+
+#: inc/settings.php:136
+msgid "Global Options"
+msgstr ""
+
+#: inc/settings.php:137
+msgid "These options relate to <b>all</b> displayed pagination elements."
+msgstr ""
+
+#: inc/settings.php:141
+msgid "Max. # of pages:"
+msgstr ""
+
+#: inc/settings.php:145
+msgid "\"Previous\" &amp; \"Next\" links:"
+msgstr ""
+
+#: inc/settings.php:146
+msgid "Show \"previous\" &amp; \"next\" links"
+msgstr ""
+
+#: inc/settings.php:149
+msgid "Text for \"Previous\" Link:"
+msgstr ""
+
+#: inc/settings.php:153
+msgid "Text for \"Next\" Link:"
+msgstr ""
+
+#: inc/settings.php:159
+msgid "Where to show it"
+msgstr ""
+
+#: inc/settings.php:160
+msgid "Choose below on which pages you want the plugin to display pagination."
+msgstr ""
+
+#: inc/settings.php:164
+msgid "On the homepage:"
+msgstr ""
+
+#: inc/settings.php:165
+msgid "Show pagination on the homepage"
+msgstr ""
+
+#: inc/settings.php:168
+msgid "On category archives:"
+msgstr ""
+
+#: inc/settings.php:169
+msgid "Show pagination on category archives"
+msgstr ""
+
+#: inc/settings.php:172
+msgid "On date archives:"
+msgstr ""
+
+#: inc/settings.php:173
+msgid "Show pagination on date archives"
+msgstr ""
+
+#: inc/settings.php:176
+msgid "On tag archives:"
+msgstr ""
+
+#: inc/settings.php:177
+msgid "Show pagination on tag archives"
+msgstr ""
+
+#: inc/settings.php:180
+msgid "On search-results:"
+msgstr ""
+
+#: inc/settings.php:181
+msgid "Show pagination on search-results"
+msgstr ""
+
+#: inc/settings.php:186
+msgid "Before Options"
+msgstr ""
+
+#: inc/settings.php:187
+msgid ""
+"These options only relate to pagination displayed <b>before</b> the content "
+"(loop_end)."
+msgstr ""
+
+#: inc/settings.php:191
+msgid "Before loop content:"
+msgstr ""
+
+#: inc/settings.php:192 inc/settings.php:207
+msgid "Show pagination"
+msgstr ""
+
+#: inc/settings.php:195 inc/settings.php:210
+msgid "Id attribute:"
+msgstr ""
+
+#: inc/settings.php:201
+msgid "After Options"
+msgstr ""
+
+#: inc/settings.php:202
+msgid ""
+"These options only relate to pagination displayed <b>after</b> the content "
+"(loop_end)."
+msgstr ""
+
+#: inc/settings.php:206
+msgid "After loop content:"
+msgstr ""
+
+#: inc/settings.php:216
+msgid "Save Changes"
+msgstr ""
+
+#: inc/settings.php:220
+msgid "Delete settings"
+msgstr ""
+
+#: inc/settings.php:221
+msgid "This will clear all options."
+msgstr ""
+
+#: inc/settings.php:222
+msgid "Delete Settings"
+msgstr ""
+
+#: wp-lopa.php:46
+msgid "Previous"
+msgstr ""
+
+#: wp-lopa.php:47
+msgid "Next"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.k308.de/wp/logarithmic-pagination"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin that inserts logarithmic pagination into archive pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jonas Heitzer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://blog.k308.de"
+msgstr ""

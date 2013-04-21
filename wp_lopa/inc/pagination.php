@@ -18,6 +18,10 @@ function wp_lopa_after() {
 	}
 }
 
+function the_wp_lopa( $nav = '' ) {
+	wp_lopa_output( $nav );
+}
+
 // This is where the magic happens
 function wp_lopa_output( $nav_id = '' ) {
 	global $wp_query, $post, $page;

@@ -3,7 +3,7 @@
 Plugin Name: Logarithmic Pagination
 Plugin URI: http://www.k308.de/wp/logarithmic-pagination
 Description: Plugin that inserts logarithmic pagination into archive pages.
-Version: 0.1
+Version: 0.1.1
 Author: Jonas Heitzer
 Author URI: http://blog.k308.de
 License: GPL2
@@ -62,6 +62,8 @@ register_activation_hook( __FILE__, 'wp_lopa_init' );
 function lopa_load_plugin() {
 	global $wp_query, $post, $page;
 
+	include 'inc/pagination.php';
+
 	// Is it the homepage and is the homepage selected in the settings?
 	if ( is_front_page() && is_home() && 'Y' == get_option( 'lopa_switch_home' ) )
 		$switch_home = true;
@@ -84,7 +86,6 @@ function lopa_load_plugin() {
 
 	// Is there more than 1 page, should we show pagination and are we actually at a point where we are supposed to show it.
 	if ( $wp_query->max_num_pages > 1 && ( $switch_date || $switch_tag || $switch_home || $switch_search || $switch_category ) && did_action( 'wp_enqueue_scripts' ) == 1 ) {
-		include 'inc/pagination.php';
 		add_action( 'loop_start', 'wp_lopa_before', 0 );
 		add_action( 'loop_end', 'wp_lopa_after', 0 );
 	}
